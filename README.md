@@ -1,1 +1,1 @@
-# AlgorithmicTradingBotUsingRL
+# Algorithmic Trading Bot Using RL
